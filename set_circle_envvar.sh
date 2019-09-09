@@ -2,7 +2,7 @@
 # shellcheck disable=SC2016
 set -eu
 
-repo=planet4-vulnerable-plugins-rss
+repo=planet4-rss-to-chat-vulnerable-plugins
 user=greenpeace
 var_name=$1
 var_value=$2
